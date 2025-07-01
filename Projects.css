@@ -1,0 +1,12 @@
+.project-section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.project-heading {
+  font-size: 1.8rem;
+  font-weight: bold;
+  border-bottom: 2px solid #e53935;
+  display: inline-block;
+  margin-bottom: 20px;
+}
